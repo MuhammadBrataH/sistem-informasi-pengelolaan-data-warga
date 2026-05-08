@@ -1,0 +1,36 @@
+@media (max-width: 768px) {
+    
+    .mobile-hide {
+        display: none !important;
+    }
+    /* Button lebih besar di mobile */
+    .btn-sm {
+        padding: 0.5rem 1rem !important;
+        font-size: 0.95rem !important;
+    }
+    
+    /* Card padding lebih kecil */
+    .card-body {
+        padding: 1rem !important;
+    }
+    
+    /* Font headings lebih kecil */
+    h2 {
+        font-size: 1.5rem !important;
+    }
+    
+    h5 {
+        font-size: 1.1rem !important;
+    }
+    
+    /* Navbar brand lebih kecil */
+    .navbar-brand {
+        font-size: 1rem !important;
+    }
+    
+    /* Table scroll horizontal lebih smooth */
+    .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+}
