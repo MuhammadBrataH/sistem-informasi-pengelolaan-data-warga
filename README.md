@@ -9,8 +9,6 @@
 
 Aplikasi ini mendesentralisasi manajemen warga, memungkinkan setiap RT mengelola warganya sendiri secara independen, sementara pihak RW tetap memiliki visibilitas penuh secara terpusat.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Tambahkan+Screenshot+Dashboard+Sistem+Di+Sini)
-
 ---
 
 ## 🛠️ Tech Stack
